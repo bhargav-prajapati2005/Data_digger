@@ -4,7 +4,7 @@ Data Digger SQL Project
 
 Data Digger is a SQL database project that demonstrates basic database operations using MySQL. The project manages customer, order, and product information through tables and SQL queries.
 
-#Features
+# Features
 Create and manage databases
 Customer record management
 Order tracking and analysis
