@@ -46,6 +46,5 @@ Table management
 Data manipulation (INSERT, UPDATE, DELETE)
 Data retrieval using SELECT queries
 Aggregate functions and filtering
-Author
-
+# Author
 # Bhargav Prajapati
