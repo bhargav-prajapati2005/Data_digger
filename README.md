@@ -48,4 +48,4 @@ Data retrieval using SELECT queries
 Aggregate functions and filtering
 Author
 
-Bhargav Prajapati
+# Bhargav Prajapati
